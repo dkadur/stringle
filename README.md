@@ -1,8 +1,8 @@
 # About
-Stringle is a Python clone of the famous online game "Wordle"
+Stringle is a Python clone of the famous online game "Wordle" with over 5000 unique words to guess.
 
 # Running
-Simply run stringle.py and make sure words.txt is in the same directory
+Simply run stringle.py and make sure words.txt (the list of 5000+ words) is in the same directory.
 
 # Instructions
 The instructions are the same as the original version minus the interactive keyboard.

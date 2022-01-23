@@ -9,9 +9,9 @@ The instructions are the same as the original version minus the interactive keyb
 
 You have 6 tries to guess a 5 letter word. Input your guess by typing on your keyboard. Use the "backspace" button to delete letters from your guess. Hit "enter" to finalize a guess. 
 
-Once a guess has been entered, colors will be assigned to the letters in your guess.
--Green: Correct letter, correct position
--Yellow: Correct letter, incorrect position
--Gray: Incorrect letter
+Once a guess has been entered, colors will be assigned to the letters in your guess:<br/><br/>
+-Green: Correct letter, correct position<br/>
+-Yellow: Correct letter, incorrect position<br/>
+-Gray: Incorrect letter<br/>
 
 Enjoy!
